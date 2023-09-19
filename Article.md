@@ -1,5 +1,5 @@
 # Introduction To Finance
-![Finance](https://unsplash.com/photos/6dV77VPUFrw)
+![Finance](https://www.pexels.com/photo/gray-high-rise-buildings-936722/)
 ## Know your finance
 
 Finance is the study and discipline of money, currency and capital assets. It is related to, but not synonymous with economics, which is the study of money.
