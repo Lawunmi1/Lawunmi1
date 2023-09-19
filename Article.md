@@ -10,4 +10,9 @@ Let's dive in!
 2. Honesty
 
 - Jobs
-- Ccertificate
+- Certificate
+
+---
+## New Methods
+The world is evolving.
+[Financial rules](https://www.wipo.int/export/sites/www/about-wipo/en/pdf/wipo_financial_regulations.pdf)
